@@ -5,7 +5,7 @@ Hi 👋 My name is Hafiz
  
 💻 Technical expertise:
 
-- Backend: PHP, Laravel, Filament, MySQL, SQlite
+- Backend: PHP, Laravel, Filament, NativePHP, MySQL, SQlite
 - Frontend: Vue.js, Livewire, jQuery, Vuetify, Bootstrap, Tailwind CSS 
 - DevOps: Git, Docker, LAMP stack 
 
