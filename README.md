@@ -1,7 +1,7 @@
 Hi 👋 My name is Hafiz
 ======================
 
-👋 Full Stack Web Developer with 9+ years of experience building scalable web applications.
+Full Stack Web Developer with 9+ years of experience building scalable web applications.
  
 💻 Technical expertise:
 
